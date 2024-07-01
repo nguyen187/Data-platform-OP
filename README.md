@@ -1,4 +1,3 @@
-# VDT 2024 - Assignment
 > - file spark_processing_vdt2024.py dùng để chạy spark xử lý dữ liệu
 > - file Producer.py dùng để gửi data lên kafka
 
