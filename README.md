@@ -51,7 +51,3 @@ Submit spark job bằng lệnh:
 ./bin/spark-submit \
 --master spark://spark-master:7077 \
 /spark/conf/vdt-assigment-2024/spark_processing_vdt2024.py \
-
-
-
-
