@@ -45,6 +45,18 @@ Di chuyển vào thư mục cài spark và tạo 2 thư mục `vdt-assigment-202
 
 Mở terminal khác và chạy lệnh copy file vào container `spark-master`: `sudo docker cp spark_processing_vdt2024.py f59701b22210:/spark/conf/vdt-assigment-2024`
 
+
+
+<details>
+  <summary><h2> <img align="center" src="https://github.com/[YourUsername]/[YourUsername]/blob/main/icons/Contact.gif" width="37"/> Contact Me</h2></summary>
+  <p>
+    <i>You can reach out to me via</i>
+    <a href="mailto:[your-email]">
+      <img align="center" src="https://github.com/[YourUsername]/[YourUsername]/blob/main/icons/Gmail.gif" width="100"/>
+    </a>
+  </p>
+</details>
+
 Submit spark job bằng lệnh: 
 ```bash
 ./bin/spark-submit \
