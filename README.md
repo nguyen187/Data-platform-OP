@@ -54,12 +54,4 @@ Submit spark job bằng lệnh:
 
 
 
-<details>
-  <summary><h2> <img align="center" src="https://github.com/nguyen187/nguyen187/blob/main/icons/Contact.gif" width="37"/> Contact Me</h2></summary>
-  <p>
-    <i>You can reach out to me via</i>
-    <a href="mailto:thanhnguyen187201@gmail.com">
-      <img align="center" src="https://github.com/nguyen187/nguyen187/blob/main/icons/Gmail.gif" width="100"/>
-    </a>
-  </p>
-</details>
+
